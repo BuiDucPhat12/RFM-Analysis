@@ -16,6 +16,8 @@ UnitPrice: Unit price. Numeric, Product price per unit in sterling.
 CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 Country: Country name. Nominal, the name of the country where each customer resides.
 Transaction dataset
+![image](https://github.com/BuiDucPhat12/RFM-Analysis/assets/174614831/1d4b3f91-2164-47cf-8f24-4df23b8c9b33)
+
 ## 2. Method: RFM Analysis
 - RFM is a method used for analyzing customer value. It commonly used in database marketing and direct marketing and has received particular attention in retail and professional services industries
 - RFM stands for:
